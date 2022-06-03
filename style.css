@@ -84,6 +84,11 @@ hr {
     background-color: #a7a7a7;
 }
 
+.key-tile:hover,
+.enter-key-tile:hover {
+    cursor: pointer;
+}
+
 .correct {
     background-color: #6AAA64;
     color: white;
